@@ -10,6 +10,10 @@ For more details about method and experiments, please, refer to our preprint: "B
 
 
 
+The image below demonstrates an example of applying map metric to compare GT poses and poses from ICP algorithm on KITTI dataset via evaluating small-scale map inconsistency.  As a result, MOM demonstrates superiority on small-scale mapping in comparison to GT poses that could be noisy on small-scale distances.
+
+![](fig/teaser.png)
+
 ### Citing
 
 If you use this tool for your research, please, cite:
