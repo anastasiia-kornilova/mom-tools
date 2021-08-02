@@ -1,7 +1,8 @@
 # mom-tools
 
+For **pip-package** that implements several metrics, including MOM, for benchmarking trajectory via registered point clouds, please, refer to this [repository](https://github.com/anastasiia-kornilova/map_metrics).
 
-
+## Description
 MOM (Mutually Orthogonal Metric) is a metric that evaluates trajectory quality via estimation inconsistency of the map aggregated from registered point clouds via this trajectory. It uses statistics obtained from points from mutually orthogonal surfaces and, therefore, strongly correlates with Relative Pose Error. This repository provides source code for this metric and examples of applications on widespread LiDAR datasets.
 
 
